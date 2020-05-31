@@ -1,2 +1,2 @@
 # SummerGeo
-A place to practice summer geography.
+A place to practice summer 2020 geography.
